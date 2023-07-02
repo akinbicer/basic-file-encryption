@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <sstream>
 
 void encryptFile(const std::string& filename, const std::string& password)
 {
