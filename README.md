@@ -1,4 +1,4 @@
-# File Encryption Application
+# Basic File Encryption Application
 This project contains a simple file encryption application implemented in C++. The application allows the user to encrypt or decrypt a specified file by providing a password.
 
 ## Usage
@@ -23,4 +23,4 @@ This project has the following dependencies:
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
 ## Issues, Feature Requests or Support
-Please use the [New Issue](https://github.com/akinbicer/file-encryption/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
+Please use the [New Issue](https://github.com/akinbicer/basic-file-encryption/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
